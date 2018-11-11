@@ -124,7 +124,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      Scientific publications
+      Scientific publications. Articles with an asterisk mean that the authors are ordered alphabetically.
 
     papers:
       - title: Deep Learning Applied to the Asteroseismic Modeling of Stars with Coherent Oscillation Modes
@@ -137,22 +137,22 @@ publications:
         conference: "Preprint: https://arxiv.org/abs/1809.08893"
         link: http://arxiv.org/abs/arXiv:1809.08893
 
-      - title: Implications of the Fermi-LAT Pass 8 Galactic Center excess on supersymmetric dark matter
+      - title: Implications of the Fermi-LAT Pass 8 Galactic Center excess on supersymmetric dark matter*
         authors: Abraham Achterberg, Melissa van Beekveld, Sascha Caron, Germán A. Gómez-Vargas, Luc Hendriks, Roberto Ruiz de Austri
         conference: JCAP 1712 (2017) no.12, 040
         link: http://arxiv.org/abs/arXiv:1709.10429
 
-      - title: Analyzing 𝛾-rays of the Galactic Center with Deep Learning
+      - title: Analyzing 𝛾-rays of the Galactic Center with Deep Learning*
         authors: Sascha Caron, Germán A. Gómez-Vargas, Luc Hendriks, Roberto Ruiz de Austri
         conference: JCAP 1805 (2018) no.05, 058
         link: http://arxiv.org/abs/arXiv:1708.06706
 
-      - title: Comparing Galactic Center MSSM dark matter solutions to the Reticulum II gamma-ray data
+      - title: Comparing Galactic Center MSSM dark matter solutions to the Reticulum II gamma-ray data*
         authors: Abraham Achterberg, Melissa van Beekveld, Wim Beenakker, Sascha Caron, Luc Hendriks
         conference: JCAP 1512 (2015) no.12, 013
         link: http://arxiv.org/abs/arXiv:1507.04644
 
-      - title: A description of the Galactic Center excess in the Minimal Supersymmetric Standard Model
+      - title: A description of the Galactic Center excess in the Minimal Supersymmetric Standard Model*
         authors: Abraham Achterberg, Simone Amoroso, Sascha Caron, Luc Hendriks, Roberto Ruiz de Austri, Christoph Weniger
         conference: JCAP 1508 (2015) no.08, 006
         link: https://inspirehep.net/record/1345340
