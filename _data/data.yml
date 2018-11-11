@@ -49,7 +49,7 @@ career-profile:
       Second paragraph if required.
 
 education:
-      - degree: PhD in Machine Learning & High Energy Physics
+    - degree: PhD in Machine Learning & High Energy Physics
       university: Radboud University
       time: 2016 -
       details: "Main topic: applying machine learning techniques to dark matter related problems. These vary from LHC physics to Fermi data."
