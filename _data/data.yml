@@ -150,22 +150,32 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Scientific publications
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Deep Learning Applied to the Asteroseismic Modeling of Stars with Coherent Oscillation Modes
+        authors: Luc Hendriks, Conny Aerts
+        conference: "Preprint: ... Accepted for publication in Pasp"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "SPOT: Open Source framework for scientific data repository and interactive visualization"
+        authors: Faruk Diblen, Jisk Attema, Rena Bakhshi, Sascha Caron, Luc Hendriks, Bob Stienen
+        conference: "Preprint: https://arxiv.org/abs/1809.08893"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Implications of the Fermi-LAT Pass 8 Galactic Center excess on supersymmetric dark matter
+        authors: Abraham Achterberg, Melissa van Beekveld, Sascha Caron, Germán A. Gómez-Vargas, Luc Hendriks, Roberto Ruiz de Austri
+        conference: JCAP 1712 (2017) no.12, 040
+
+      - title: Analyzing 𝛾-rays of the Galactic Center with Deep Learning
+        authors: Sascha Caron, Germán A. Gómez-Vargas, Luc Hendriks, Roberto Ruiz de Austri
+        conference: JCAP 1805 (2018) no.05, 058
+
+      - title: Comparing Galactic Center MSSM dark matter solutions to the Reticulum II gamma-ray data
+        authors: Abraham Achterberg, Melissa van Beekveld, Wim Beenakker, Sascha Caron, Luc Hendriks
+        conference: JCAP 1512 (2015) no.12, 013
+
+      - title: A description of the Galactic Center excess in the Minimal Supersymmetric Standard Model
+        authors: Abraham Achterberg, Simone Amoroso, Sascha Caron, Luc Hendriks, Roberto Ruiz de Austri, Christoph Weniger
+        conference: JCAP 1508 (2015) no.08, 006
 
 skills:
     title: Skills &amp; Proficiency
