@@ -39,13 +39,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Currently working at Resnap as Node.JS developer and AWS infrastructure. Also in my 3d year
+      of my PhD in dark matter & machine learning.
 
 education:
     - degree: PhD in Machine Learning & High Energy Physics
@@ -65,48 +60,22 @@ education:
       details: ""
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: PhD in ML & DM
+      time: 2016 - Present
+      company: Radboud University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        My PhD role is mainly to apply machine learning to dark matter related problems. See
+        the publications section for a list of publications.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Cofounder & developer
+      time: 2012 - Present
+      company: Resnap
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Resnap is a photo book solution which automatically selects the most memorable photos
+        for you, using artifical intelligence.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - High & unpredictable load -- fast scaling infrastructure on AWS
+          - Machine learning
 
 projects:
     title: Projects
@@ -117,6 +86,12 @@ projects:
       - title: Higgs gevonden (Dutch)
         link: "https://www.bol.com/nl/f/higgs-gevonden/9200000009552065/"
         tagline: "Dit is een heldere inleiding in, en een compleet overzicht van alles dat wij weten over materie."
+
+      - title: Extracurricular activities
+        link:
+        tagline: |
+          - a
+          - b
 
 publications:
     title: Publications
@@ -154,27 +129,4 @@ publications:
         conference: JCAP 1508 (2015) no.08, 006
         link: https://inspirehep.net/record/1345340
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: ""
