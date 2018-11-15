@@ -100,7 +100,7 @@ publications:
     papers:
       - title: Deep Learning Applied to the Asteroseismic Modeling of Stars with Coherent Oscillation Modes
         authors: Luc Hendriks, Conny Aerts
-        conference: "Preprint: ... Accepted for publication in Pasp"
+        conference: "Preprint: https://arxiv.org/abs/1811.03639. Accepted for publication in Pasp"
         link: https://arxiv.org/abs/1811.03639
 
       - title: "SPOT: Open Source framework for scientific data repository and interactive visualization"
