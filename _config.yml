@@ -2,8 +2,8 @@
 
 # Site Settings
 title: Luc Hendriks
-url: 'http://webjeda.com'
-baseurl: '/luchendriks.com' #change it according to your repository name
+url: 'http://luchendriks.com'
+baseurl: '/' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
 
