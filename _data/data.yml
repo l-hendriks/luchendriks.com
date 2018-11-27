@@ -92,6 +92,48 @@ projects:
         tagline: Chairman, vice-chairman of the study association of physics & astronomy. Chairman
           of the squash association. Several commitees, such as symposium, drinks, activities.
 
+talks:
+    title: Invited talks
+    intro: |
+      Talks I have given.
+
+    talks:
+      - title: γ-rays and Machine Learning
+        conference: BAM astrophysics workshop, Barolo, Italy
+        date: Sep, 2018
+
+      - title: Analysing γ-rays of the Galactic Center with deep learning
+        conference: SISSA, Trieste, Italy
+        date: Mar, 2018
+
+      - title: Inverting the simulation
+        conference: BIRS workshop in statistics, Banff, Canada
+        date: Feb, 2018
+
+      - title: Indirect detection & Machine Learning
+        conference: ML/DM workshop in Leiden, the Netherlands
+        date: Jan, 2018
+
+      - title: Accelerating searching in high-dimensional parameter spaces using Machine Learning
+        conference: University of Leuven, Belgium
+        date: December, 2017
+
+      - title: Analysing γ-rays of the Galactic Center with deep learning
+        conference: "Three elephants in the sky" - γ-ray meeting in Garmisch, Germany
+        date: October, 2017
+
+      - title: Finding Beyond the Standard Model particles using the Galactic Center and deep learning
+        conference: Annual conference of Dutch Physics Association
+        date: October, 2017
+
+      - title: Determining the origin of the Galactic Center Excess using Convolutional Neural Networks
+        conference: Big data workshop at Nikhef
+        date: June, 2017
+
+      - title: Finding Beyond the Standard Model particles using the MSSM and Galactic Center
+        conference: Colloquium at university of Münster
+        date: March, 2016
+
 publications:
     title: Publications
     intro: |

@@ -1,0 +1,28 @@
+{% assign talks = site.data.data.talks %}
+{% if talks %}
+<section class="section talks-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ talks.title }}
+  </h2>
+
+  {% if talks.intro %}
+  <div class="intro">
+    {{ talks.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for talk in talks.talks %}
+  <div class="item">
+    <div class="talk-title">{{ talk.title }}</div>
+    <div class="talk-authors">{{ talk.date }}</div>
+    <div class="talk-conference">{{ talk.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
