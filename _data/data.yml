@@ -119,7 +119,7 @@ talks:
         date: December, 2017
 
       - title: Analysing γ-rays of the Galactic Center with deep learning
-        conference: "Three elephants in the sky" - γ-ray meeting in Garmisch, Germany
+        conference: "Three elephants in the sky" \- γ-ray meeting in Garmisch, Germany
         date: October, 2017
 
       - title: Finding Beyond the Standard Model particles using the Galactic Center and deep learning
