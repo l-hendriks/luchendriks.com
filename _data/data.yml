@@ -140,6 +140,11 @@ publications:
       Scientific publications. Articles with an asterisk mean that the authors are ordered alphabetically.
 
     papers:
+      - title: Event Generation and Statistical Sampling with Deep Generative Models
+        authors: Sydney Otten, Sascha Caron, Wieske de Swart, Melissa van Beekveld, Luc Hendriks, Caspar van Leeuwen, Damian Podareanu, Roberto Ruiz de Austri, Rob Verheyen
+        conference: "Preprint: https://arxiv.org/abs/1901.00875"
+        link: https://arxiv.org/abs/1901.00875
+
       - title: Deep Learning Applied to the Asteroseismic Modeling of Stars with Coherent Oscillation Modes
         authors: Luc Hendriks, Conny Aerts
         conference: "Preprint: https://arxiv.org/abs/1811.03639. Accepted for publication in Pasp"
