@@ -143,6 +143,11 @@ publications:
       Scientific publications. Articles with an asterisk mean that the authors are ordered alphabetically.
 
     papers:
+      - title: Combined asteroseismology, spectroscopy, and astrometry of the CoRoT B2V target HD 170580
+        authors: C. Aerts, M. G. Pedersen, E. Vermeyen, L. Hendriks, C. Johnston, A. Tkachenko, P. I. Pápics, J. Debosscher, M. Briquet, A. Thoul, M. Rainer, E. Poretti
+        conference: "Preprint: https://arxiv.org/abs/1902.04093"
+        link: https://arxiv.org/abs/1902.04093
+
       - title: Event Generation and Statistical Sampling with Deep Generative Models
         authors: Sydney Otten, Sascha Caron, Wieske de Swart, Melissa van Beekveld, Luc Hendriks, Caspar van Leeuwen, Damian Podareanu, Roberto Ruiz de Austri, Rob Verheyen
         conference: "Preprint: https://arxiv.org/abs/1901.00875"
