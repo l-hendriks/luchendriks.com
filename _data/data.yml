@@ -101,6 +101,10 @@ talks:
       Talks I have given.
 
     talks:
+      - title: Variational Autoencoders
+        conference: Advanced Workshop on Accelerating the Search for Dark Matter with Machine Learning
+        date: Apr, 2019
+
       - title: γ-rays and Machine Learning
         conference: BAM astrophysics workshop, Barolo, Italy
         date: Sep, 2018
