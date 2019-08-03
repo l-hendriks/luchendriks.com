@@ -101,6 +101,10 @@ talks:
       Talks I have given.
 
     talks:
+      - title: DarkMachines
+        conference: PHYSTAT-DM, Stockholm, Sweden
+        date: Aug, 2019
+
       - title: Variational Autoencoders
         conference: Advanced Workshop on Accelerating the Search for Dark Matter with Machine Learning, Trieste, Italy
         date: Apr, 2019
