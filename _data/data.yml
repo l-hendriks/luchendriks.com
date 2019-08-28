@@ -101,6 +101,10 @@ talks:
       Talks I have given.
 
     talks:
+      - title: Machine Learning and Dark matter
+        conference: 19th Lomonosov conference on particle physics, Moscow, Russia
+        date: Aug, 2019
+
       - title: DarkMachines
         conference: PHYSTAT-DM, Stockholm, Sweden
         date: Aug, 2019
