@@ -166,7 +166,7 @@ publications:
 
       - title: Combined asteroseismology, spectroscopy, and astrometry of the CoRoT B2V target HD 170580
         authors: C. Aerts, M. G. Pedersen, E. Vermeyen, L. Hendriks, C. Johnston, A. Tkachenko, P. I. Pápics, J. Debosscher, M. Briquet, A. Thoul, M. Rainer, E. Poretti
-        conference: "Preprint: https://arxiv.org/abs/1902.04093. Accepted for publication in A&A"
+        conference: "A&A 624, A75 (2019)"
         link: https://arxiv.org/abs/1902.04093
 
       - title: Event Generation and Statistical Sampling with Deep Generative Models
@@ -176,12 +176,12 @@ publications:
 
       - title: Deep Learning Applied to the Asteroseismic Modeling of Stars with Coherent Oscillation Modes
         authors: Luc Hendriks, Conny Aerts
-        conference: "Preprint: https://arxiv.org/abs/1811.03639. Accepted for publication in Pasp"
+        conference: "PasP, Volume 131, Number 1004 (2019)"
         link: https://arxiv.org/abs/1811.03639
 
       - title: "SPOT: Open Source framework for scientific data repository and interactive visualization"
         authors: Faruk Diblen, Jisk Attema, Rena Bakhshi, Sascha Caron, Luc Hendriks, Bob Stienen
-        conference: "Preprint: https://arxiv.org/abs/1809.08893. Accepted for publication in SoftwareX"
+        conference: "SoftwareX, Volume 9, January–June 2019, Pages 328-331"
         link: http://arxiv.org/abs/arXiv:1809.08893
 
       - title: Implications of the Fermi-LAT Pass 8 Galactic Center excess on supersymmetric dark matter*
