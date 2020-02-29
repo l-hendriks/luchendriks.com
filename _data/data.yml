@@ -159,7 +159,7 @@ publications:
       Scientific publications. Articles with an asterisk mean that the authors are ordered alphabetically.
 
     papers:
-      - title: "Les Houches 2019 Physics at TeV Colliders: New Physics Working Group Report"
+      - title: "Les Houches 2019 Physics at TeV Colliders: New Physics Working Group Report*"
         authors: Les Houches conference participants
         conference: "Preprint: https://arxiv.org/abs/2002.12220"
         link: https://arxiv.org/abs/2002.12220
