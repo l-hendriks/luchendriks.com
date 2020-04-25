@@ -161,7 +161,7 @@ publications:
     papers:
       - title: "Les Houches 2019 Physics at TeV Colliders: New Physics Working Group Report*"
         authors: Les Houches conference participants
-        conference: "Preprint: https://arxiv.org/abs/2002.12220"
+        conference: "Conference Proceedings"
         link: https://arxiv.org/abs/2002.12220
 
       - title: Deep Horizon; a machine learning network that recovers accreting black hole parameters
